@@ -98,7 +98,10 @@ Log into the client computer as any of the users that were created with the Powe
 <img src="https://i.imgur.com/7QnApgm.png" height="80%" width="80%" alt="final check"/>
 
 <h2>Download Virtual Box Exports </h2>
-[Domain Controller](https://www.google.com)
+The VirtualBox exports are hosted externally due to their size. You can download them using the following links:
+<br />
+<a href="https://drive.google.com/file/d/14WXiVlIFvr5eLOFaMdvsmRE3GQMsawyv/view?usp=sharing">Domain Controller</a>
+<a href="https://drive.google.com/file/d/1CEwPuOQ08FMdfv1AEHMpa_5dAlcrh2qi/view?usp=sharing">Client</a>
 
 <h2>Conclusion </h2>
 Configuring and running this project certainly helped develop my understanding of how active directory and windows networking works as well as my skills with Powershell. I learned how to set up a Windows Server and troubleshoot it. I also became more familiar with protocols like DHCP and DNS.
